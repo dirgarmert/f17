@@ -6,8 +6,8 @@ Takım Flutter 17
 
 ## Takım Elemanları
 - Hakkı Mert Dirgar: Product Owner / Developer
-- Sinem Taşkın: Scrum Master/Developer
-- Aslı Deniz Ürersoy: Developer
+- Aslı Deniz Ürersoy: Scrum Master/Developer
+- Sinem Taşkın: Developer
 - Selenay Akbaba: Developer 
 - Ali Mert Cesur: Developer
 
