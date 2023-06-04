@@ -2,7 +2,8 @@
 
 Takım Flutter 17
 
-# Ürün İle İlgili Bilgiler
+# Ürün Fikir Aşaması
+https://miro.com/app/board/uXjVMCUeA5c=/?share_link_id=145613341165
 
 ## Takım Elemanları
 - Hakkı Mert Dirgar: Product Owner / Developer
