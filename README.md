@@ -97,10 +97,18 @@ Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem T
 - **Sprint Retrospective:**
 
 -Fikir olarak yeni fikirlerin gündem de oldugunu gelecek sprintlerde baska ürün yapilabilme ihtimalinin oldugu ekipce son yapilan retrospective Meetinginde gündeme gelmistir.
+
 -Roller ile ilgili düzenleme yapılmış.
+
+
 -Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.Herkesin kodlama yapmasi icin calismasi gerektigi Product Owner tarafindan vurgulanmistir.
+
+
 -Scrum Master tarafindan Daily Meeting saatinin herekse uygun bir saat araliginda güncellenmesi talep edilmistir.
+
+
 -Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
 
 ---
 
