@@ -3,7 +3,7 @@
 Takım Flutter 17
 
 # Ürün Fikir Aşaması
-![Brainstorm Miro Board](https://miro.com/app/board/uXjVMCUeA5c=/?share_link_id=145613341165)
+https://miro.com/app/board/uXjVMCUeA5c=/?share_link_id=145613341165
 
 ## Takım Elemanları
 - Hakkı Mert Dirgar: Product Owner / Developer
@@ -81,7 +81,8 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 yapilmistir.Toplanti örnegi jpeg  olarak Readme'de tarafımızdan paylaşılmaktadır: ![toplanti](https://github.com/dirgarmert/f17/assets/123075895/d6d24495-d8e8-4b85-9554-77a71567d62b)
 - **Sprint 1 board** :![Sprint 1](https://github.com/dirgarmert/f17/assets/123075895/5f4b88c9-ee2f-41a1-acce-0985b55cbed2)
 - **Sprint 1 Burndown Chart**:![Sprint 1-Burndown Chart](https://github.com/dirgarmert/f17/assets/123075895/dc60a223-beef-4533-bec4-926fecbe5963)
-- **Figma Wireframe**:![Figma Wireframe](https://www.figma.com/file/wu7KI9IMFOTa21kThg2Uwz/f17%2Fwireframe?type=design&node-id=0%3A1&t=7gdyA0jIr6SbEcfX-1)
+- **Figma Wireframe**:https://www.figma.com/file/wu7KI9IMFOTa21kThg2Uwz/f17%2Fwireframe?type=design&node-id=0%3A1&t=7gdyA0jIr6SbEcfX-1
+
 
  **Sprint Review**:
 
