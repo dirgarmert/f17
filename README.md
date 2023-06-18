@@ -3,7 +3,7 @@
 Takım Flutter 17
 
 # Ürün Fikir Aşaması
-[BrainStorm] (https://miro.com/app/board/uXjVMCUeA5c=/?share_link_id=145613341165)
+![Brainstorm Miro Board](https://miro.com/app/board/uXjVMCUeA5c=/?share_link_id=145613341165)
 
 ## Takım Elemanları
 - Hakkı Mert Dirgar: Product Owner / Developer
@@ -56,13 +56,22 @@ Topluluk Üyeleri: Yeşil Işık üzerinde başlatılan projeleri desteklemek ve
 Hedef kitle, Yeşil Işık'ın kullanıcı tabanının ana bileşenlerini temsil etmektedir. Bu uygulama, fikirlerini gerçeğe dönüştürmek için ekip arayan fikir sahipleri ile fikirlerini desteklemek veya yatırım yapmak isteyen yatırımcılar arasında bir platform sağlayarak bir bağlantı noktası oluşturmayı amaçlamaktadır.
 
 -Yazilimcilar
+
 -Fikir Sahibi Girisimciler
+
 -Girisimcilik Motivasyonuna Sahip insanlar
+
 -Yatirimcilar
+
 -Projesini MVP asamasindan Ürün asamasina gecirmek isteyen ekipler
+
 
 ## Juriye Not
 Yapilan uygulamanin henüz kullanicisi olmadigindan dolayi projeleri ekipteki herkes kendileri doldurmustur.Bu yüzden bu uygulamada fonlanan projeler örnek proje olup ekip kendi icerisinde fonlama olusturmustur.
+
+---
+
+
 ## Sprint 1
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
@@ -70,17 +79,17 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 
 - **Daily Scrum**: Daily Scrum toplantılarının kurulan Discord sunucusu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısınin zaman araligi 01.06.2023-19.06.2023 (1. Sprint icin) 22.00 olarak belirlenmistir.Bootcamp baslangicindan ilk sprint bitisine kadar her gün Daily Scrum 
 yapilmistir.Toplanti örnegi jpeg  olarak Readme'de tarafımızdan paylaşılmaktadır: ![toplanti](https://github.com/dirgarmert/f17/assets/123075895/d6d24495-d8e8-4b85-9554-77a71567d62b)
-- **Sprint board** :![Sprint 1](https://github.com/dirgarmert/f17/assets/123075895/5f4b88c9-ee2f-41a1-acce-0985b55cbed2)
-- **Sprint board**:![Sprint 1-Burndown Chart](https://github.com/dirgarmert/f17/assets/123075895/dc60a223-beef-4533-bec4-926fecbe5963)
+- **Sprint 1 board** :![Sprint 1](https://github.com/dirgarmert/f17/assets/123075895/5f4b88c9-ee2f-41a1-acce-0985b55cbed2)
+- **Sprint 1 Burndown Chart**:![Sprint 1-Burndown Chart](https://github.com/dirgarmert/f17/assets/123075895/dc60a223-beef-4533-bec4-926fecbe5963)
+- **Figma Wireframe**:![Figma Wireframe](https://www.figma.com/file/wu7KI9IMFOTa21kThg2Uwz/f17%2Fwireframe?type=design&node-id=0%3A1&t=7gdyA0jIr6SbEcfX-1)
 
+ **Sprint Review**:
 
-- **Sprint Review**: 
-Alınan kararlar: 
+Alınan kararlar
 
 - Kullanıcı temel sayfalarinin tek tema düzeninde ilerletilmesi karar verildi.
 - Sayfalarin renk uyumu saglanmasi amaciyla Hex kodlarinin düzenlenmesi saglandi.
 - Her sayfanin backendi icin tüm ekip üyelerine ayri rol atandi.
-
 
 Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem Taşkın,Selenay Akbaba,Irem Deniz Ünal
 
