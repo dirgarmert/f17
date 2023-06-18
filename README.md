@@ -68,14 +68,13 @@ Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-Daily Scrum: Daily Scrum toplantılarının kurulan Discord sunucusu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısınin zaman araligi 01.06.2023-19.06.2023 (1. Sprint icin) 22.00 olarak belirlenmistir.Bootcamp baslangicindan ilk sprint bitisine kadar her gün Daily Scrum 
+- **Daily Scrum**: Daily Scrum toplantılarının kurulan Discord sunucusu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısınin zaman araligi 01.06.2023-19.06.2023 (1. Sprint icin) 22.00 olarak belirlenmistir.Bootcamp baslangicindan ilk sprint bitisine kadar her gün Daily Scrum 
 yapilmistir.Toplanti örnegi jpeg  olarak Readme'de tarafımızdan paylaşılmaktadır: ![toplanti](https://github.com/dirgarmert/f17/assets/123075895/d6d24495-d8e8-4b85-9554-77a71567d62b)
-Sprint 1 Backlog : https://github.com/dirgarmert/f17/assets/123075895/f62c212b-4d1e-49b4-90a1-851822956691
-Sprint 1 Backlog Miro Linki :https://miro.com/app/board/uXjVM_D8Cgc=/?share_link_id=307343606235https://miro.com/app/board/uXjVM_D8Cgc=/?share_link_id=307343606235
-Sprint ! Burndown Chart: 
-Figma Wireframe Linki:https://www.figma.com/file/wu7KI9IMFOTa21kThg2Uwz/f17%2Fwireframe?type=design&node-id=0%3A1&t=5wwEV5RXtERcfLO4-1
+- **Sprint board** :![Sprint 1](https://github.com/dirgarmert/f17/assets/123075895/5f4b88c9-ee2f-41a1-acce-0985b55cbed2)
+- **Sprint board**:![Sprint 1-Burndown Chart](https://github.com/dirgarmert/f17/assets/123075895/dc60a223-beef-4533-bec4-926fecbe5963)
 
-## Sprint Review: 
+
+- **Sprint Review**: 
 Alınan kararlar: 
 
 - Kullanıcı temel sayfalarinin tek tema düzeninde ilerletilmesi karar verildi.
@@ -85,7 +84,7 @@ Alınan kararlar:
 
 Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem Taşkın,Selenay Akbaba,Irem Deniz Ünal
 
-## Sprint Retrospective:
+- **Sprint Retrospective:**
 
 -Fikir olarak yeni fikirlerin gündem de oldugunu gelecek sprintlerde baska ürün yapilabilme ihtimalinin oldugu ekipce son yapilan retrospective Meetinginde gündeme gelmistir.
 -Roller ile ilgili düzenleme yapılmış.
@@ -93,5 +92,8 @@ Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem T
 -Scrum Master tarafindan Daily Meeting saatinin herekse uygun bir saat araliginda güncellenmesi talep edilmistir.
 -Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
+---
+
 ## Product Backlog URL
-Flutter Team 17 Miro Backlog Board: https://miro.com/app/board/uXjVM_D8Cgc=/
+
+[Flutter Team 17 Miro Backlog Board]([https://miro.com/app/board/uXjVO4kRs2w=/](https://miro.com/app/board/uXjVM_D8Cgc=/?share_link_id=110881165637)https://miro.com/app/board/uXjVM_D8Cgc=/?share_link_id=110881165637)
