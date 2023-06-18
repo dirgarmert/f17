@@ -96,4 +96,4 @@ Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem T
 
 ## Product Backlog URL
 
-[Flutter Team 17 Miro Backlog Board]([https://miro.com/app/board/uXjVO4kRs2w=/](https://miro.com/app/board/uXjVM_D8Cgc=/?share_link_id=110881165637)https://miro.com/app/board/uXjVM_D8Cgc=/?share_link_id=110881165637)
+[Flutter Team 17 Miro Backlog Board](https://miro.com/app/board/uXjVM_D8Cgc=/)
