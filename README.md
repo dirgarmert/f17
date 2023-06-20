@@ -73,9 +73,15 @@ Yapilan uygulamanin henüz kullanicisi olmadigindan dolayi projeleri ekipteki he
 
 
 ## Sprint 1
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+**Sprint Notları:** Miro da User Story'ler (mavilerin) içine yazılmıştır.
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+**Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur
+
+Story'ler yapılacak tasklara bölünmüştür. Miro Board'da gözüken kırmızı'lar yapılacak taskları gösteriyor, mavi'lerr story'leri gösteriyor.
 
 - **Daily Scrum**: Daily Scrum toplantılarının kurulan Discord sunucusu üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısınin zaman araligi 01.06.2023-19.06.2023 (1. Sprint icin) 22.00 olarak belirlenmistir.Bootcamp baslangicindan ilk sprint bitisine kadar her gün Daily Scrum 
 yapilmistir.Toplanti örnegi jpeg  olarak Readme'de tarafımızdan paylaşılmaktadır: ![toplanti](https://github.com/dirgarmert/f17/assets/123075895/d6d24495-d8e8-4b85-9554-77a71567d62b)
