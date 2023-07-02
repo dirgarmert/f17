@@ -116,6 +116,45 @@ Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem T
 -Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 
+## Sprint2
+## Sprint notları:
+
+## Sprint içinde tamamlanması gereken puan: 
+120 Puan
+
+## Puan tamamlama mantığı: 
+3 Sprint için toplamda 300 puanlık Backlog olması kararlaştırdık. Tasklar için puanlar dağıtılmıştır ama büyük bir kısmı 3. sprinte bırakılmıştır.
+
+Backlog düzeni ve Story seçimleri: Backlog taskların ilerleyişine göre düzenlendi. Story zorluklarına göre puanlamalar yapılmıştır. 
+
+Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı kartlar yapılacak işleri gösterirken, mavi kartlar story'leri temsil etmektedir.
+
+## Daily Scrum: 
+Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır
+
+
+
+
+## Sprint Review: 
+Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilmiştir. Logo, tema renkleri gibi tasarım konuları üzerine çalışılmıştır. Görev dağılımı ağırlığı 2. Sprinte verilerek 3. Sprintin hata iyileştirmeleri ile tamamlanması kararlaştırılmıştır. Developerlar tarafından Sprint puan hesapları yapılmıştır. 
+
+## Sprint Review katılımcıları: 
+- Aslı Deniz Ürersoy: Scrum Master/Developer
+- Hakkı Mert Dirgar: Product Owner / Developer
+- Sinem Taşkın: Developer
+- Selenay Akbaba: Developer 
+- Irem Deniz Ünal: Developer
+![Ekran Resmi 2023-07-03 01 51 18](https://github.com/dirgarmert/f17/assets/51324032/73820d6d-88d5-460d-863e-4469c778b4cf)
+
+
+
+## Sprint Retrospective:
+
+Üçüncü Sprint de çoğunluğunu bitirilecek listenin.
+Dailylere katılım artacak. 
+
+
+
 ---
 
 ## Product Backlog URL
