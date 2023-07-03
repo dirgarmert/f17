@@ -118,24 +118,26 @@ Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem T
 
 ## Sprint2
 ## Sprint notları:
-Ürün Açıklaması
+## Ürün Açıklaması
 Drive App, Google Maps ile entegre çalışan ve trafikteki kaza problemini azaltmayı amaçlayan uygulamadır. Uygulama ile çalışan ürün sayesinde sağa veya sola dönüşlerde arabanın sinyal kolları uyarılır ve otomatik olarak sinyal verilmiş olur. Uygulama, navigasyona sürekli bakıldığında gerçekleşen yol karışıklıklarının ve kazalarının önüne geçmeyi amaçlamaktadır.
 
-Uygulama birincil fonksiyonu: Otomotiv firmaları ürün ve uygulamayı satın alarak kendi ürettikleri araçlara entegre ederler. Böylece oluşabilecek kazaların önünr geçilir.
+## Uygulama birincil fonksiyonu: 
+Otomotiv firmaları ürün ve uygulamayı satın alarak kendi ürettikleri araçlara entegre ederler. Böylece oluşabilecek kazaların önünr geçilir.
 
-Uygulama ikincil fonksiyonu: Kullanıcı uygulama ve ürünü satın alarak aracına entegre eder. Böylece trafikte sürekli navigasyona bakma durumu ortadan kalkmış olur.
+## Uygulama ikincil fonksiyonu: 
+Kullanıcı uygulama ve ürünü satın alarak aracına entegre eder. Böylece trafikte sürekli navigasyona bakma durumu ortadan kalkmış olur.
 
-Ürün Özellikleri
+## Ürün Özellikleri
 - Google Maps ile entegre edilmiş harita sayesinde araç içerisinde kullanılan ürüne navigasyon bilgilerinin iletilmesi.
 - Flutter'dan verilen komutlar ile ürünün sağa veya sola dönüleceğini anlaması.
 - Sinyal koluna üründen uyarı gitmesi.
 - Arabanın otomatik olarak sağa veya sola sinyal vermesi.
 
-Hedef Kitle
+## Hedef Kitle
 Otomotiv firmaları
 Araç sahibi kullanıcılar
 
-Jüriye not:
+## Jüriye not:
 İlk sprint sonrası uygulama fikri değiştirilmiş ve yeni fikir üzerinden ilerlenmiştir.
 
 ## Sprint içinde tamamlanması gereken puan: 
