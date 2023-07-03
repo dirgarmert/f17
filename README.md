@@ -118,6 +118,25 @@ Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem T
 
 ## Sprint2
 ## Sprint notları:
+Ürün Açıklaması
+Drive App, Google Maps ile entegre çalışan ve trafikteki kaza problemini azaltmayı amaçlayan uygulamadır. Uygulama ile çalışan ürün sayesinde sağa veya sola dönüşlerde arabanın sinyal kolları uyarılır ve otomatik olarak sinyal verilmiş olur. Uygulama, navigasyona sürekli bakıldığında gerçekleşen yol karışıklıklarının ve kazalarının önüne geçmeyi amaçlamaktadır.
+
+Uygulama birincil fonksiyonu: Otomotiv firmaları ürün ve uygulamayı satın alarak kendi ürettikleri araçlara entegre ederler. Böylece oluşabilecek kazaların önünr geçilir.
+
+Uygulama ikincil fonksiyonu: Kullanıcı uygulama ve ürünü satın alarak aracına entegre eder. Böylece trafikte sürekli navigasyona bakma durumu ortadan kalkmış olur.
+
+Ürün Özellikleri
+- Google Maps ile entegre edilmiş harita sayesinde araç içerisinde kullanılan ürüne navigasyon bilgilerinin iletilmesi.
+- Flutter'dan verilen komutlar ile ürünün sağa veya sola dönüleceğini anlaması.
+- Sinyal koluna üründen uyarı gitmesi.
+- Arabanın otomatik olarak sağa veya sola sinyal vermesi.
+
+Hedef Kitle
+Otomotiv firmaları
+Araç sahibi kullanıcılar
+
+Jüriye not:
+İlk sprint sonrası uygulama fikri değiştirilmiş ve yeni fikir üzerinden ilerlenmiştir.
 
 ## Sprint içinde tamamlanması gereken puan: 
 120 Puan
@@ -130,10 +149,7 @@ Backlog düzeni ve Story seçimleri: Backlog taskların ilerleyişine göre düz
 Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı kartlar yapılacak işleri gösterirken, mavi kartlar story'leri temsil etmektedir.
 
 ## Daily Scrum: 
-Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır
-
-
-
+Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır.
 
 ## Sprint Review: 
 Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilmiştir. Logo, tema renkleri gibi tasarım konuları üzerine çalışılmıştır. Görev dağılımı ağırlığı 2. Sprinte verilerek 3. Sprintin hata iyileştirmeleri ile tamamlanması kararlaştırılmıştır. Developerlar tarafından Sprint puan hesapları yapılmıştır. 
