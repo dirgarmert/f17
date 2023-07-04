@@ -163,7 +163,8 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 - Sinem Taşkın: Developer
 - Selenay Akbaba: Developer 
 - Irem Deniz Ünal: Developer
-![image](https://github.com/dirgarmert/f17/assets/123979121/391189b8-ff48-4410-97c8-e5e227f92e6a)
+![image](https://github.com/dirgarmert/f17/assets/123979121/7bd90310-8a37-4b05-a611-6ad394f0e937)
+
 
 
 
