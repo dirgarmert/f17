@@ -151,7 +151,8 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 ## Daily Scrum: 
 Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmektedir.
-![image](https://github.com/dirgarmert/f17/assets/123979121/57c02cf9-c510-4a1a-b757-90a9fdc6b6ce)
+![image](https://github.com/dirgarmert/f17/assets/123979121/6ba738c7-1b05-44c6-8d7c-2b6e3af77ade)
+
 
 
 ## Sprint Review: 
@@ -163,7 +164,7 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 - Sinem Taşkın: Developer
 - Selenay Akbaba: Developer 
 - Irem Deniz Ünal: Developer
-![image](https://github.com/dirgarmert/f17/assets/123979121/4f8d9da4-90ed-4879-bd99-94e96ccb57d0)
+
 
 
 
