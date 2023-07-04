@@ -150,7 +150,9 @@ Backlog düzeni ve Story seçimleri: Backlog taskların ilerleyişine göre düz
 Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı kartlar yapılacak işleri gösterirken, mavi kartlar story'leri temsil etmektedir.
 
 ## Daily Scrum: 
-Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır.
+Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmektedir.
+![image](https://github.com/dirgarmert/f17/assets/123979121/57c02cf9-c510-4a1a-b757-90a9fdc6b6ce)
+
 
 ## Sprint Review: 
 Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilmiştir. Logo, tema renkleri gibi tasarım konuları üzerine çalışılmıştır. Görev dağılımı ağırlığı 2. Sprinte verilerek 3. Sprintin hata iyileştirmeleri ile tamamlanması kararlaştırılmıştır. Developerlar tarafından Sprint puan hesapları yapılmıştır. 
