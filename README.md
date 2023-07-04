@@ -157,7 +157,7 @@ Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmek
 
 ## Sprint Review: 
 Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilmiştir. Logo, tema renkleri gibi tasarım konuları üzerine çalışılmıştır. Görev dağılımı ağırlığı 2. Sprinte verilerek 3. Sprintin hata iyileştirmeleri ile tamamlanması kararlaştırılmıştır. Developerlar tarafından Sprint puan hesapları yapılmıştır. 
-
+![image](https://github.com/dirgarmert/f17/assets/123979121/7d042b2f-544b-4e89-a38f-dd734cdde3b2)
 ## Sprint Review katılımcıları: 
 - Aslı Deniz Ürersoy: Scrum Master/Developer
 - Hakkı Mert Dirgar: Product Owner / Developer
