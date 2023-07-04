@@ -169,7 +169,7 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 
 ## Sprint Retrospective:
 
-Üçüncü Sprint de çoğunluğunu bitirilecek listenin.
+Üçüncü Sprint de listenin çoğunluğu bitirilecek.Dailylere katılım artacak. 
 Dailylere katılım artacak. 
 
 
