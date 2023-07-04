@@ -116,7 +116,7 @@ Sprint Review katılımcıları:Hakkı Mert Dirgar,Aslı Deniz Ürersoy, Sinem T
 -Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
 
-## Sprint2
+## Sprint 2
 ## Ürün Açıklaması
 Drive App, Google Maps ile entegre çalışan ve trafikteki kaza problemini azaltmayı amaçlayan uygulamadır. Uygulama ile çalışan ürün sayesinde sağa veya sola dönüşlerde arabanın sinyal kolları uyarılır ve otomatik olarak sinyal verilmiş olur. Uygulama, navigasyona sürekli bakıldığında gerçekleşen yol karışıklıklarının ve kazalarının önüne geçmeyi amaçlamaktadır.
 
@@ -170,7 +170,6 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 ## Sprint Retrospective:
 
 Üçüncü Sprint de listenin çoğunluğu bitirilecek.Dailylere katılım artacak. 
-Dailylere katılım artacak. 
 
 
 
