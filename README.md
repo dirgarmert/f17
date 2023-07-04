@@ -152,8 +152,11 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 ## Daily Scrum: 
 Daily Scrum toplantıları, Discord'da hem de WhatsApp üzerinden gerçekleşmektedir.
 ![image](https://github.com/dirgarmert/f17/assets/123979121/6ba738c7-1b05-44c6-8d7c-2b6e3af77ade)
+- **Sprint 1 board** :![8ea517de-ab7a-4ec3-ad51-4fd31511f7b4](https://github.com/dirgarmert/f17/assets/120518425/32a65649-7d4c-40f0-80f1-558a5396da09)
 
+- **Sprint 1 Burndown Chart**:![298dd647-f401-4999-ba87-cd9fb0da5266](https://github.com/dirgarmert/f17/assets/120518425/118a4dc5-f4f6-4ba2-b25e-5d834ff79394)
 
+- **Figma Wireframe**:https://www.figma.com/file/wu7KI9IMFOTa21kThg2Uwz/f17%2Fwireframe?type=design&node-id=0%3A1&t=7gdyA0jIr6SbEcfX-1
 
 ## Sprint Review: 
 Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilmiştir. Logo, tema renkleri gibi tasarım konuları üzerine çalışılmıştır. Görev dağılımı ağırlığı 2. Sprinte verilerek 3. Sprintin hata iyileştirmeleri ile tamamlanması kararlaştırılmıştır. Developerlar tarafından Sprint puan hesapları yapılmıştır. 
