@@ -179,6 +179,9 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 
 Üçüncü Sprint de listenin çoğunluğu bitirilecek.Dailylere katılım artacak. 
 
+## Sprint 3
+Sprint 3 ve uygulamanın kodlarına aşağıdaki linkten ulaşılabilir.
+https://github.com/dirgarmert/f17_mapy
 
 
 ---
